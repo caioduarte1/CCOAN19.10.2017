@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CCOAN19.10.2017</string>
+    <string name="nome_busca">nome do cliente</string>
+    <string name="botao_busca">Buscar</string>
+    <string name="lbl_nome">Nome: </string>
+    <string name="lbl_nome">Fone: </string>
+    <string name="lbl_nome">E-mail: </string>
+</resources>
